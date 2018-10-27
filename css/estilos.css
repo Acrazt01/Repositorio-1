@@ -1,0 +1,78 @@
+body{
+  margin: 0;
+  font-family: 'Brandon Grotesque','brandon-grotesque',Helvetica,sans-serif;
+}
+
+.header{
+
+}
+
+.menu{
+  box-sizing: border-box;
+  padding: 0 50px;
+  background-color: #181C1F;
+  height: 75px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu-items{
+  display: inherit;
+  justify-content: space-between;
+  align-items: center;
+  width: 981px;
+}
+
+.menu-div1{
+  display: flex;
+  align-items: center;
+}
+
+.menu-logo-container{
+  width: 200px;
+  margin: 0;
+  display: inline-block;
+}
+
+.menu-image-link{
+  
+}
+.menu-logo{
+  padding-bottom: 7;
+}
+
+.menu-logo{}
+
+.menu-div1-items{
+  display: inherit;
+  justify-content: space-around;
+
+}
+
+.menu-link-TA{
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+  font-size: 14px;
+}
+
+.menu-div2{
+  display: inherit;
+  justify-content: space-around;
+}
+
+.menu-link-TB{
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0 10px;
+  color: #8b939b;
+  font-size: 12px;
+}
+
+#Shop{
+
+  border: 1px solid red;
+  box-sizing: border-box;
+}
